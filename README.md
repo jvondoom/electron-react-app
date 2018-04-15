@@ -1,3 +1,7 @@
+## Electron App using React
+
+Created using [this tutorial](https://medium.freecodecamp.org/building-an-electron-application-with-create-react-app-97945861647c)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
